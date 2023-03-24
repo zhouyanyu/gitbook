@@ -24,17 +24,7 @@ description: “圣物可以放置在宝塔。每30秒可产生50黄金、25食�
 宝塔是中国人进入元朝后的独特建筑，最大可以建造3个，把圣物放置到宝塔的话，可以每30秒可产生50黄金、25食物、木材和石料\
 
 
-### 科技
-
-***
-
-![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/civicon/chi.png)
-
-这座建筑物没有科技可以研发
-
 ### 加成
-
-***
 
 ![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/civicon/chi.png)
 
