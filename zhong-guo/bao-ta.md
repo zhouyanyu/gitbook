@@ -26,8 +26,6 @@ description: “圣物可以放置在宝塔。每30秒可产生50黄金、25食�
 
 ### 加成
 
-![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/civicon/chi.png)
-
 文明固有加成：建造速度+100%
 
 | 生命值 | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%AE%AB%E5%BB%B7%E5%BB%BA%E7%AD%91%E5%B8%88.png" alt="">宫廷建筑师(+30%)<br></p> |
