@@ -4,11 +4,14 @@ description: “不具备战斗能力的经济辅助单位。可自动从建筑�
 
 # 朝廷命官
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%9C%9D%E5%BB%B7%E5%91%BD%E5%AE%98.png" alt="" data-size="line"></p><p>朝廷命官</p><p>(Imperial Official)</p></td></tr><tr><td>训练信息<br>产地：城镇中心 翰林院<br>成本：<img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%82%89.png" alt="" data-size="line">100<img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%87%91.png" alt="" data-size="line">50<br>训练时间：20秒</td></tr><tr><td>状态数据<br>生命值：75<br>近战护甲：0<br>远程护甲：0<br>移动速度：1.29<br>单位：标签工人</td></tr><tr><td>特殊能力<br>收税：自动从附近的建筑收取税金<br>监督：监督一座生产建筑或经济建筑，提高150%工作效率或额外的20%资源收集量</td></tr></tbody></table>
+|                                                                                                                                                           |                                                                                                                                                                                                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%9C%9D%E5%BB%B7%E5%91%BD%E5%AE%98.png" alt="" data-size="line"> | 朝廷命官(Imperial Official)                                                                                                                                                                                                                                                                                |
+| **训练信息**                                                                                                                                                  | <p>产地：城镇中心 翰林院<br>成本：<img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%82%89.png" alt="" data-size="line">100<img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%87%91.png" alt="" data-size="line">50<br>训练时间：20秒</p> |
+| **状态数据**                                                                                                                                                  | <p>生命值：75<br>近战护甲：0<br>远程护甲：0<br>移动速度：1.29<br>单位：标签工人</p>                                                                                                                                                                                                                                              |
+| **特殊能力**                                                                                                                                                  | <p>收税：自动从附近的建筑收取税金<br>监督：监督一座生产建筑或经济建筑，提高150%工作效率或额外的20%资源收集量</p>                                                                                                                                                                                                                                      |
 
-### 简介[\[回到顶部\]](broken-reference) <a href="#jia" id="jia"></a>
-
-***
+### 简介 <a href="#jia" id="jia"></a>
 
 朝廷命官是中国独特的工作单位，他们的职责是从建筑中收税，建筑物在进行存放资源、生产士兵、研发科技后会产生税金，朝廷命官会尝试自动走到这些建筑物旁边收取税金获得黄金(最大40，研发帝国国考可以达到80)，每个建筑都有一定的冷却时间(20秒)使得朝廷命官不能连续收税
 
@@ -16,34 +19,11 @@ description: “不具备战斗能力的经济辅助单位。可自动从建筑�
 
 朝廷命官还有独特的监督能力，通过监督兵营、靶场、马厩、攻城武器厂、大型箭塔、大学、铁匠铺，使得它们的工作效率提升150%，监督采矿营地、伐木场、磨坊和谷仓则是可以让村民在存放资源的时候额外得到20%的资源
 
-### 更新日志[\[回到顶部\]](broken-reference) <a href="#change" id="change"></a>
+### 加成 <a href="#change" id="change"></a>
 
-***
+元朝：15%移动速度
 
-内测版本
-
-* 可以监督码头
-* v5544补丁后，“效率训练”科技遭到了删除，现在朝廷命官开局就拥有监督技能而不需要研发科技
-
-发售版本
-
-* 不再可以监督码头
-* v8324补丁后，可以监督铁匠铺、大型箭塔和大学了
-* v8324补丁后，税收冷却时间从30秒下调到15秒
-* v11009补丁后，不能监督天文钟楼
-* 11963补丁后，税收冷却时间从15秒上调到20秒
-* 11963补丁后，税收基础数值从20黄金上调到40黄金，帝国国考现在可以让朝廷命官收取80税金而不是40
-
-第1赛季
-
-* 第一赛季补丁后，朝廷命官的监督效率从200%下调到150%，成本从150食物调整为100食物50黄金
-
-第2赛季
-
-* 第二赛季补丁后，翰林院现在可以生产朝廷命官了
-
-### 历史[\[回到顶部\]](broken-reference) <a href="#relk" id="relk"></a>
-
-***
-
-为了更加有效地让帝国高效地运作，更多的人才是必须的，隋唐时期的中国研发出了一种名为“科举”的人才选拔制度，它是封建时代最公平的晋升模式，因为他对应试者的出身和年龄完全没有限制，只要有足够的才学就可以在殿试中取得优胜成为“状元”，大量出身自社会中低层的知识分子通过科举成为国家的栋梁，为国家的蓬勃发展作出值得肯定的贡献，尽管科举制度在之后的日子里变得固化，但是它可以起到的作用是值得肯定的，现代社会的人才选拔方式很大程度上直接继承自科举制
+| 近战护甲 | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%90%88%E8%BA%AB%E7%9A%AE%E5%85%B7.png" alt="" data-size="line">合身皮具(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%BB%9D%E7%BC%98%E5%A4%B4%E7%9B%94.png" alt="" data-size="line">绝缘头盔(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%93%81%E5%8C%A0%E5%A4%A7%E5%B8%88.png" alt="" data-size="line">铁匠大师(+1)</p> |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 远程护甲 | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%93%81%E5%88%B6%E5%BA%95%E7%BD%91.png" alt="" data-size="line">铁制底网 (+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%A5%94%E5%BD%A2%E9%93%86%E9%92%89.png" alt="" data-size="line">楔形铆钉(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%96%9C%E9%9D%A2.png" alt="" data-size="line">斜面(+1)</p>                    |
+| 其它   | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%B8%9D%E5%9B%BD%E5%9B%BD%E8%80%83.png" alt="" data-size="line">帝国国考(黄金携带量+40)                                                                                                                                                                                                                                                                                                                                            |

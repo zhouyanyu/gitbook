@@ -1,14 +1,20 @@
+---
+description: “采集木材、食物、石料和黄金。建造并修理建筑，也可修理攻城器械和海军单位”
+---
+
 # 村民
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>村民</strong>(Villager)</td><td><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%9D%91%E6%B0%91.png" alt="" data-size="original"></td></tr><tr><td><strong>训练信息</strong></td><td>产地 城镇中心 <br>成本 50 <br>训练时间 20秒</td></tr><tr><td><strong>状态数据</strong></td><td>移动速度 1.13 <br>运载量 10 <br>单位标签 工人</td></tr><tr><td>攻击属性(混战)</td><td><p>攻击力(近战) 6 - - - </p><p>射程 0.29 </p><p>攻击间隔时间 3.88</p></td></tr><tr><td>攻击属性(近战狩猎)<br>攻击力(近战) 12 - - - 射程 0.29 攻击间隔时间 3.88</td><td></td></tr><tr><td>攻击属性(远程狩猎)<br>攻击力(远程) 3 - - - 射程 2.88 攻击间隔时间 2.88</td><td></td></tr><tr><td>攻击属性(火炬)</td><td><p>攻击力(火焰) 10 10 10 10 </p><p>射程 1.00 </p><p>攻击间隔时间 2.12 </p><p>对[攻城器]加成 +2 +2 +2 +2</p></td></tr></tbody></table>
+|                                                                                                                                             |                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%9D%91%E6%B0%91.png" alt="" data-size="line">**** | 村民(Villager)                                                                                                                                       |
+| **训练信息**                                                                                                                                    | <p>产地 城镇中心 <br>成本 <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%82%89.png" alt="">50 <br>训练时间 20秒</p> |
+| **状态数据**                                                                                                                                    | <p>移动速度 1.13 <br>运载量 10 <br>单位标签 工人</p>                                                                                                            |
+| **攻击属性(混战)**                                                                                                                                | <p>攻击力(近战) 6 - - - </p><p>射程 0.29 </p><p>攻击间隔时间 3.88</p>                                                                                           |
+| **攻击属性(近战狩猎)**                                                                                                                              | 攻击力(近战) 12 - - - 射程 0.29 攻击间隔时间 3.88                                                                                                               |
+| **攻击属性(远程狩猎)**                                                                                                                              | 攻击力(远程) 3 - - - 射程 2.88 攻击间隔时间 2.88                                                                                                                |
+| **攻击属性(火炬)**                                                                                                                                | <p>攻击力(火焰) 10 10 10 10 </p><p>射程 1.00 </p><p>攻击间隔时间 2.12 </p><p>对[攻城器]加成 +2 +2 +2 +2</p>                                                           |
 
-“采集木材、食物、石料和黄金。建造并修理建筑，也可修理攻城器械和海军单位”
-
-——游戏内说明
-
-### 简介[\[回到顶部\]](broken-reference) <a href="#jia" id="jia"></a>
-
-***
+### 简介 <a href="#jia" id="jia"></a>
 
 村民是一个文明最核心的单位，收集地图里的资源来为文明提供经济收益，他们战斗能力很弱，遇到敌人的时候仅仅能使用小刀进行自卫，英格兰的农民则是使用较强的短弓进行战斗，他们还能像普通士兵一样使用火炬攻击建筑物和攻城武器，但是他们和其它士兵不同的是火炬攻击力不会因为时代进化而发生变化
 
@@ -17,55 +23,35 @@
 村民无法升级，他们狩猎动物的时候会使用弓箭进行战斗，但是动物过于接近的话他们就会拿出近战武器进行搏斗，猎杀绵羊固定使用近战武器\
 虽然狩猎和英格兰农民使用弓箭战斗，但是不会受到燃烧箭加成。英格兰农民虽然使用弓箭战斗，但是攻击建筑和攻城武器不会像普通弓箭手那样射箭，而是使用火炬攻击
 
-| 工作效率   |                          |
-| ------ | ------------------------ |
-| 果丛     | 0.66                     |
-| 农田     | 0.75                     |
-| 畜牧(绵羊) | 0.75                     |
-| 畜牧(牛)  | <p>0.90<br>同盟采集为0.66</p> |
-| 狩猎(鹿)  | 0.825                    |
-| 狩猎(野猪) | 0.90                     |
-| 近海鱼群   | 1.00                     |
-| 木材     | 0.75                     |
-| 黄金     | 0.75                     |
-| 石材     | 0.75                     |
+| 工作效率   |                |
+| ------ | -------------- |
+| 果丛     | 0.66           |
+| 农田     | 0.75           |
+| 畜牧(绵羊) | 0.75           |
+| 畜牧(牛)  | 0.90 同盟采集为0.66 |
+| 狩猎(鹿)  | 0.825          |
+| 狩猎(野猪) | 0.90           |
+| 近海鱼群   | 1.00           |
+| 木材     | 0.75           |
+| 黄金     | 0.75           |
+| 石材     | 0.75           |
 
-### 更新日志[\[回到顶部\]](broken-reference) <a href="#change" id="change"></a>
+### 加成 <a href="#change" id="change"></a>
 
-***
+宋朝：生产速度+33%\
+元朝：15%移动速度\
+谷仓：影响力范围内农田食物收集率+15%\
+文明固有加成：建造防御工事的速度加快50%，所有其他建筑的建造速度则加快100%
 
-内测版本
-
-* 以4个村民开始游戏，中国人拥有额外的2个开局村民奖励，v5544补丁后，以6个村民开始游戏，中国人不再拥有额外的开局村民奖励
-* 浆果丛收集效率是0.6，v5544补丁后，收集效率提升到0.66
-* 食物效率科技升级的效果是10%，v5544补丁后，效果提升到15%
-* v5544补丁后，修理建筑物的消费进行调整，墙和门没有消耗，大型箭塔、城镇中心、地标每HP消耗2木材，其它所有建筑每HP消耗1木材
-* v5544补丁后，火炬攻击(1.5射程、4.0攻击间隔时间、20攻击力)进行了调整，现在火炬伤害根据时代产生变化(10/13/16/20)，攻击间隔时间调整到2.0，射程下调到1.0，并且获得+10对攻城器加成攻击力
-* v5544补丁后，英格兰磨坊的影响力效果现在得到了时代变化(15%/20%/25%/30%)
-* v5544补丁后，英格兰村民短弓攻击从6下调为5，射程从5.5下调为5
-
-第1赛季
-
-* 第一赛季补丁后，狩猎携带量从10上调到25
-
-第2赛季
-
-* 第二赛季补丁后，村民修复攻城武器的效率从20HP/秒下调到5HP/秒
-* 第二赛季补丁后，村民火把对攻城器的额外伤害从10下调到2
-* 蒙古：第二赛季补丁后，强化经济科技加成从额外+5%上调到额外+7.5%
-* 19801补丁后，村民的攻击速度明确了起手帧(3.75调整为3.88)
-
-第3赛季
-
-* 5.1.148版本后，牛的盟友采集效率从0.9调整到0.66
-* 5.1.148.1补丁后，宋朝农民加成从减少35%生产时间修改成增加33%生产速度
-
-第4赛季
-
-* 英格兰：第四赛季补丁后，圈地效率从3.5秒1黄金下调到5秒1黄金
-
-### 历史[\[回到顶部\]](broken-reference) <a href="#relk" id="relk"></a>
-
-***
-
-中世纪，地位低下的农民、农奴从事各种各样的工作供养一小部分掌握着权利的宗教领袖和贵族，他们生活非常艰苦，经常无尽的工作仅仅是保留自身在国家的存在权，他们是帝国的奠基人，即使他们在很长一段时间内都是战争的牺牲品，是领主们优先舍弃的对象，随着封建制度的完善，这些农民的生活才逐渐得到了改善，最大的表现就是他们可以被允许拥有富余的生产资料，逐渐转变成社会里的中产阶级，并且逐渐挑战固有的贵族阶级让社会进化到下一个时代
+| 生命值       | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%BA%BA%E7%BB%87%E5%93%81.png" alt="" data-size="line">纺织品(+25)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 攻击力(混战)   | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%86%9F%E9%93%81%E5%9D%97%E5%90%B9%E7%82%BC%E6%B3%95.png" alt="" data-size="line">熟铁块吹炼法(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%84%B1%E7%A2%B3.png" alt="" data-size="line">脱碳(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%A4%A7%E9%A9%AC%E5%A3%AB%E9%9D%A9%E9%92%A2.png" alt="" data-size="line">大马士革钢(+1)</p>                                                                                                                                                                                                                                                                                                                                             |
+| 攻击力(狩猎近战) | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%86%9F%E9%93%81%E5%9D%97%E5%90%B9%E7%82%BC%E6%B3%95.png" alt="" data-size="line">熟铁块吹炼法(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%84%B1%E7%A2%B3.png" alt="" data-size="line">脱碳(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%A4%A7%E9%A9%AC%E5%A3%AB%E9%9D%A9%E9%92%A2.png" alt="" data-size="line">大马士革钢(+1)</p>                                                                                                                                                                                                                                                                                                                                             |
+| 攻击力(狩猎远程) | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%92%A2%E5%88%B6%E7%AE%AD%E5%A4%B4.png" alt="" data-size="line">钢制箭头(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%B9%B3%E8%A1%A1%E7%82%AE%E5%BC%B9.png" alt="" data-size="line">平衡炮弹(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%AE%AD%E5%A4%B4%E7%A9%BF%E5%AD%94%E6%9D%BF%E7%94%B2.png" alt="" data-size="line">箭头穿孔板甲(+1)</p>                                                                                                                                                                                                                                                                                                                                   |
+| 近战护甲      | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%90%88%E8%BA%AB%E7%9A%AE%E5%85%B7.png" alt="" data-size="line">合身皮具(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%BB%9D%E7%BC%98%E5%A4%B4%E7%9B%94.png" alt="" data-size="line">绝缘头盔(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%93%81%E5%8C%A0%E5%A4%A7%E5%B8%88.png" alt="" data-size="line">铁匠大师(+1)</p>                                                                                                                                                                                                                                                                                                                                                       |
+| 远程护甲      | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%93%81%E5%88%B6%E5%BA%95%E7%BD%91.png" alt="" data-size="line">铁制底网(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%A5%94%E5%BD%A2%E9%93%86%E9%92%89.png" alt="" data-size="line">楔形铆钉(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%96%9C%E9%9D%A2.png" alt="" data-size="line">斜面(+1)</p>                                                                                                                                                                                                                                                                                                                                                                           |
+| 移动速度      | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%8B%AC%E8%BD%AE%E6%8E%A8%E8%BD%A6.png" alt="" data-size="line">独轮推车(+15%)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 运载量       | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%8B%AC%E8%BD%AE%E6%8E%A8%E8%BD%A6.png" alt="" data-size="line">独轮推车(+5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 食物采集效率    | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%9B%AD%E8%89%BA%E5%AD%A6.png" alt="" data-size="line">园艺学(+15%)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%96%BD%E8%82%A5.png" alt="" data-size="line">施肥(+15%)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%B2%BE%E5%87%86%E6%9D%82%E4%BA%A4%E8%82%B2%E7%A7%8D.png" alt="" data-size="line">精准杂交育种(+15%)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%94%9F%E5%AD%98%E6%8A%80%E6%9C%AF.png" alt="" data-size="line">生存技术(+15%，仅狩猎)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%8F%A4%E4%BB%A3%E6%8A%80%E6%9C%AF.png" alt="" data-size="line">古代技术(每达到一个王朝效率+5%)</p> |
+| 木材采集效率    | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%9E%97%E4%B8%9A.png" alt="" data-size="line">林业(+100%砍倒树木速度)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%8F%8C%E9%98%94%E6%96%A7.png" alt="" data-size="line">双阔斧(+15%)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%9C%A8%E6%9D%90%E4%BF%9D%E5%AD%98.png" alt="" data-size="line">木材保存(+15%)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%A8%AA%E5%88%87%E9%94%AF.png" alt="" data-size="line">横切锯(+15%)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%8F%A4%E4%BB%A3%E6%8A%80%E6%9C%AF.png" alt="" data-size="line">古代技术(每达到一个王朝效率+5%)</p>                            |
+| 金石采集效率    | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%89%B9%E5%88%B6%E7%9F%BF%E9%94%84.png" alt="" data-size="line">特制矿锄(+15%)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%85%B8%E8%92%B8%E9%A6%8F.png" alt="" data-size="line">酸蒸馏(+15%)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%81%B0%E5%90%B9%E6%B3%95.png" alt="" data-size="line">灰吹法(+15%)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%8F%A4%E4%BB%A3%E6%8A%80%E6%9C%AF.png" alt="" data-size="line">古代技术(每达到一个王朝效率+5%)</p>                                                                                                                                                                                      |
