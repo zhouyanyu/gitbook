@@ -14,5 +14,5 @@
   * [村庄](zhong-guo/cun-zhuang.md)
   * [谷仓](zhong-guo/gu-cang.md)
   * [宝塔](zhong-guo/bao-ta.md)
-  * [翰林院](readme/han-lin-yuan.md)
-  * [肥猫的秘密基地](readme/fei-mao-de-mi-mi-ji-di.md)
+  * [翰林院](readme/fei-mao-de-mi-mi-ji-di.md)
+  * [肥猫的秘密基地](<readme/fei-mao-de-mi-mi-ji-di (1).md>)
