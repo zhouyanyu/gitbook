@@ -14,3 +14,4 @@
   * [村庄](zhong-guo/cun-zhuang.md)
   * [谷仓](zhong-guo/gu-cang.md)
   * [宝塔](zhong-guo/bao-ta.md)
+  * [肥猫的秘密基地](readme/fei-mao-de-mi-mi-ji-di.md)
