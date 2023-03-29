@@ -68,4 +68,4 @@ description: 优秀的早期步兵为英格兰提供了强大的作战力量，�
 
 [^1]: 2x[长矛兵](dan-wei/chang-mao-bing.md) 2x[弩手](dan-wei/nu-shou.md) 1x[重型投石机](dan-wei/pei-zhong-shi-ju-xing-tou-shi-ji.md)
 
-[^2]: 2x[骑手](dan-wei/qi-shou.md) 2x[骑士](dan-wei/qi-shi-chang-mao-qi-bing.md)
+[^2]: 2x[骑手](dan-wei/qi-shou.md) 2x[骑士](dan-wei/qi-shi.md)

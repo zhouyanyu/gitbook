@@ -41,10 +41,10 @@ description: “可怕的攻城炮，非常擅于对付建筑物或任何顽强�
 朝廷命官：监督时，生产建筑工作效率+150%\
 天文钟楼：生产钟楼手推炮，生命值+50%(天文钟楼出产的攻城器不接受军事学院的加成)
 
-| 攻击力  | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%8C%96%E5%AD%A6.png" alt="">化学 (+20%)<br></p>                        |
-| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 生命值  | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%94%BB%E5%9F%8E%E6%AD%A6%E5%99%A8.png" alt="">攻城武器(+20%)<br></p>     |
-| 远程护甲 | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%94%BB%E5%9F%8E%E6%AD%A6%E5%99%A8.png" alt="">攻城武器(+10)<br></p>      |
-| 移动速度 | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%B6%A6%E6%BB%91%E8%BD%AE%E8%BD%B4.png" alt="">润滑轮轴(+15%)<br></p>     |
-| 攻击速度 | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%A3%85%E5%A1%AB%E8%AE%AD%E7%BB%83.png" alt="">装填训练(攻击速度+33%)<br></p> |
-| 生产时间 | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%86%9B%E4%BA%8B%E5%AD%A6%E9%99%A2.png" alt="">军事学院(-25%)<br></p>     |
+| 攻击力  | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%8C%96%E5%AD%A6.png" alt="" data-size="line">化学 (+20%)                        |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 生命值  | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%94%BB%E5%9F%8E%E6%AD%A6%E5%99%A8.png" alt="" data-size="line">攻城武器(+20%)     |
+| 远程护甲 | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%94%BB%E5%9F%8E%E6%AD%A6%E5%99%A8.png" alt="" data-size="line">攻城武器(+10)      |
+| 移动速度 | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%B6%A6%E6%BB%91%E8%BD%AE%E8%BD%B4.png" alt="" data-size="line">润滑轮轴(+15%)     |
+| 攻击速度 | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%A3%85%E5%A1%AB%E8%AE%AD%E7%BB%83.png" alt="" data-size="line">装填训练(攻击速度+33%) |
+| 生产时间 | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%86%9B%E4%BA%8B%E5%AD%A6%E9%99%A2.png" alt="" data-size="line">军事学院(-25%)     |

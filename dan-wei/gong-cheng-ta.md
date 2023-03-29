@@ -31,7 +31,7 @@ description: “高大的步兵运输工具，不具备战斗能力，允许将�
 
 明朝：10%生命值
 
-| 生命值  | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%94%BB%E5%9F%8E%E6%AD%A6%E5%99%A8.png" alt="">攻城武器(+20%)<br></p> |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 远程护甲 | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%94%BB%E5%9F%8E%E6%AD%A6%E5%99%A8.png" alt="">攻城武器(+10)<br></p>  |
-| 移动速度 | ![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%B6%A6%E6%BB%91%E8%BD%AE%E8%BD%B4.png)润滑轮轴(+15%)                          |
+| 生命值  | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%94%BB%E5%9F%8E%E6%AD%A6%E5%99%A8.png" alt="" data-size="line">攻城武器(+20%) |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 远程护甲 | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%94%BB%E5%9F%8E%E6%AD%A6%E5%99%A8.png" alt="" data-size="line">攻城武器(+10)  |
+| 移动速度 | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%B6%A6%E6%BB%91%E8%BD%AE%E8%BD%B4.png" alt="" data-size="line">润滑轮轴(+15%) |
