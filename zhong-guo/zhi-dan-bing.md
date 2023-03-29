@@ -1,62 +1,51 @@
+---
+description: “高级远程步兵，配备可投掷爆炸罐、可对小范围区域造成伤害”
+---
+
 # 掷弹兵
 
-“高级远程步兵，配备可投掷爆炸罐、可对小范围区域造成伤害”
+### 数据
 
-——游戏内说明
+| 掷弹兵(Grenadier)                                                                                                    |                                                                                                                                                                                                                                                                                                      |   |   |     |
+| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - | --- |
+| ![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%8E%B7%E5%BC%B9%E5%85%B5.png) |                                                                                                                                                                                                                                                                                                      |   |   |     |
+| 训练信息                                                                                                              |                                                                                                                                                                                                                                                                                                      |   |   |     |
+| 产地                                                                                                                | 靶场                                                                                                                                                                                                                                                                                                   |   |   |     |
+| 成本                                                                                                                | ![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%82%89.png)120![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%87%91.png)60![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%9C%A8.png)60 |   |   |     |
+| 训练时间                                                                                                              | 30秒                                                                                                                                                                                                                                                                                                  |   |   |     |
+| 状态数据                                                                                                              |                                                                                                                                                                                                                                                                                                      |   |   |     |
+| 生命值                                                                                                               | -                                                                                                                                                                                                                                                                                                    | - | - | 150 |
+| 近战护甲                                                                                                              | -                                                                                                                                                                                                                                                                                                    | - | - | 0   |
+| 远程护甲                                                                                                              | -                                                                                                                                                                                                                                                                                                    | - | - | 0   |
+| 移动速度                                                                                                              | 1.12                                                                                                                                                                                                                                                                                                 |   |   |     |
+| 单位标签                                                                                                              | 轻型、远程、步兵、火药                                                                                                                                                                                                                                                                                          |   |   |     |
+| 攻击属性(混战)                                                                                                          |                                                                                                                                                                                                                                                                                                      |   |   |     |
+| 攻击力(远程)                                                                                                           | -                                                                                                                                                                                                                                                                                                    | - | - | 13  |
+| 射程                                                                                                                | 3.00                                                                                                                                                                                                                                                                                                 |   |   |     |
+| AOE范围半径                                                                                                           | 0.625                                                                                                                                                                                                                                                                                                |   |   |     |
+| AOE伤害衰减率                                                                                                          | <p>100%(近)<br>66%(中)<br>33%(远)</p>                                                                                                                                                                                                                                                                   |   |   |     |
+| 攻击间隔时间                                                                                                            | 1.62                                                                                                                                                                                                                                                                                                 |   |   |     |
+| 对\[建筑]加成                                                                                                          | -                                                                                                                                                                                                                                                                                                    | - | - | +65 |
+| 攻击属性(火炬)                                                                                                          |                                                                                                                                                                                                                                                                                                      |   |   |     |
+| 攻击力(攻城)                                                                                                           | -                                                                                                                                                                                                                                                                                                    | - | - | 30  |
+| 射程                                                                                                                | 4.00                                                                                                                                                                                                                                                                                                 |   |   |     |
+| 攻击间隔时间                                                                                                            | 1.62                                                                                                                                                                                                                                                                                                 |   |   |     |
 
-### 简介[\[回到顶部\]](broken-reference) <a href="#jia" id="jia"></a>
-
-***
+### 简介 <a href="#jia" id="jia"></a>
 
 掷弹兵是中国特有的火药单位，投掷可以造成范围伤害的火焰瓶攻击\
-掷弹兵是帝王时代(IV)后解锁明朝生产的部队\
+掷弹兵是帝王时代(IV)后解锁明朝生产的部队
 
-
-### 加成[\[回到顶部\]](broken-reference) <a href="#sp" id="sp"></a>
-
-***
-
-![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/civicon/chi.png)
+### 加成 <a href="#sp" id="sp"></a>
 
 元朝：15%移动速度\
 明朝：10%生命值\
 朝廷命官：监督时，生产建筑工作效率+150%
 
-### 更新日志[\[回到顶部\]](broken-reference) <a href="#change" id="change"></a>
-
-***
-
-内测版本
-
-* v5544补丁后，掷弹兵的成本从60肉60木15金调整为120肉60木60金
-* v5544补丁后，掷弹兵生命值由100上调为150
-* v5544补丁后，掷弹兵移动速度由3.5上调为4.5
-* v5544补丁后，掷弹兵攻击间隔时间由2.5下调为1.5
-* v5544补丁后，掷弹兵基础伤害从10提升到15
-* v5544补丁后，掷弹兵射程从5下调到4
-* v5544补丁后，掷弹兵对建筑物的攻城伤害由12提高到30
-* v5544补丁后，远程部队的近战攻击被删除了
-
-第1赛季
-
-* 第一赛季补丁后，进入新的朝代不再限制旧朝代的王朝部队，而是完全解锁使用
-
-第2赛季
-
-* 第二赛季补丁后，攻击力从15下调到13，射程从4下调到3，AOE伤害衰减率从100%/75%/50%下调到100%/66%/33%，不再接受火工技术的射程加成
-* 19801补丁后，掷弹兵攻击建筑物不再使用特殊火炬攻击，而是直接使用普通远程攻击，获得+65反建筑物伤害
-* 19801补丁后，远程部队的攻击速度明确了起手帧(从1.5更变标记为1.62)
-
-### 历史[\[回到顶部\]](broken-reference) <a href="#relk" id="relk"></a>
-
-***
-
-在12世纪的宋金战争中，宋军使用了名为震天雷的火药武器，这是一种利用生铁制造的铁罐封装大量炸药，使用引线点燃投掷的一种武器，宋军在守城时大量使用这种火药武器攻击金军，它使用的原理和现代手榴弹基本相同，可以认为是现代手榴弹的起源
-
-### 杂项[\[回到顶部\]](broken-reference) <a href="#oth" id="oth"></a>
-
-***
-
-| [![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/unit/chi/mini/%E6%8E%B7%E5%BC%B9%E5%85%B5.jpg)](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/unit/chi/%E6%8E%B7%E5%BC%B9%E5%85%B5.jpg) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 掷弹兵                                                                                                                                                                                                                                            |
+| 生命值  | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%B2%BE%E9%94%90%E5%86%9B%E9%98%9F%E6%88%98%E6%9C%AF.png" alt="" data-size="line">精锐军队战术(+20%)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 攻击力  | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%86%9F%E9%93%81%E5%9D%97%E5%90%B9%E7%82%BC%E6%B3%95.png" alt="" data-size="line">熟铁块吹炼法(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%84%B1%E7%A2%B3.png" alt="" data-size="line">脱碳(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%A4%A7%E9%A9%AC%E5%A3%AB%E9%9D%A9%E9%92%A2.png" alt="" data-size="line">大马士革钢(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%B2%BE%E9%94%90%E5%86%9B%E9%98%9F%E6%88%98%E6%9C%AF.png" alt="" data-size="line">精锐军队战术(+20%)</p> |
+| 近战护甲 | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%90%88%E8%BA%AB%E7%9A%AE%E5%85%B7.png" alt="" data-size="line">合身皮具(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%BB%9D%E7%BC%98%E5%A4%B4%E7%9B%94.png" alt="" data-size="line">绝缘头盔(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%93%81%E5%8C%A0%E5%A4%A7%E5%B8%88.png" alt="" data-size="line">铁匠大师(+1)</p>                                                                                                                                                                                                      |
+| 远程护甲 | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%93%81%E5%88%B6%E5%BA%95%E7%BD%91.png" alt="" data-size="line">铁制底网 (+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%A5%94%E5%BD%A2%E9%93%86%E9%92%89.png" alt="" data-size="line">楔形铆钉(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%96%9C%E9%9D%A2.png" alt="" data-size="line">斜面(+1)</p>                                                                                                                                                                                                                         |
+| 生产时间 | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%86%9B%E4%BA%8B%E5%AD%A6%E9%99%A2.png" alt="" data-size="line">军事学院(-25%)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 其它   | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%94%BB%E5%9F%8E%E5%B7%A5%E7%A8%8B%E5%AD%A6.png" alt="" data-size="line">攻城工程学(可以建造冲车和攻城塔)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

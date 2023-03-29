@@ -1,58 +1,48 @@
+---
+description: “向敌方单位发射具有凶猛伤害的箭矢”
+---
+
 # 诸葛弩手
 
-“向敌方单位发射具有凶猛伤害的箭矢”
+### 数据
 
-——游戏内说明
+| 诸葛弩手(Zhuge Nu)                                                                                                             |                                                                                                                                                                                                                                                                                                                |    |    |    |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- | -- | -- |
+| ![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%AF%B8%E8%91%9B%E5%BC%A9%E6%89%8B.png) |                                                                                                                                                                                                                                                                                                                |    |    |    |
+| 训练信息                                                                                                                       |                                                                                                                                                                                                                                                                                                                |    |    |    |
+| 产地                                                                                                                         | 靶场                                                                                                                                                                                                                                                                                                             |    |    |    |
+| 成本                                                                                                                         | ![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%82%89.png)20![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%9C%A8.png)30![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%87%91.png)30            |    |    |    |
+| 训练时间                                                                                                                       | 15秒                                                                                                                                                                                                                                                                                                            |    |    |    |
+| 状态数据                                                                                                                       |                                                                                                                                                                                                                                                                                                                |    |    |    |
+| 生命值                                                                                                                        | -                                                                                                                                                                                                                                                                                                              | 70 | 80 | 95 |
+| 近战护甲                                                                                                                       | -                                                                                                                                                                                                                                                                                                              | 0  | 0  | 0  |
+| 远程护甲                                                                                                                       | -                                                                                                                                                                                                                                                                                                              | 0  | 0  | 0  |
+| 移动速度                                                                                                                       | 1.12                                                                                                                                                                                                                                                                                                           |    |    |    |
+| 单位标签                                                                                                                       | 轻型、远程、步兵                                                                                                                                                                                                                                                                                                       |    |    |    |
+| 攻击属性                                                                                                                       |                                                                                                                                                                                                                                                                                                                |    |    |    |
+| 攻击力(远程)                                                                                                                    | -                                                                                                                                                                                                                                                                                                              | 4  | 5  | 6  |
+| 多段攻击次数                                                                                                                     | 3                                                                                                                                                                                                                                                                                                              |    |    |    |
+| 射程                                                                                                                         | 4.5                                                                                                                                                                                                                                                                                                            |    |    |    |
+| 攻击间隔时间                                                                                                                     | 1.75                                                                                                                                                                                                                                                                                                           |    |    |    |
+| 升级费用                                                                                                                       |                                                                                                                                                                                                                                                                                                                |    |    |    |
+| 升级到老练(III)                                                                                                                 | ![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%82%89.png)100![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%87%91.png)250![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%97%B6%E9%97%B4.png)60 |    |    |    |
+| 升级到精锐(IV)                                                                                                                  | ![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%82%89.png)300![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%87%91.png)700![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%97%B6%E9%97%B4.png)60 |    |    |    |
 
-### 简介[\[回到顶部\]](broken-reference) <a href="#jia" id="jia"></a>
-
-***
+### 简介 <a href="#jia" id="jia"></a>
 
 诸葛弩手是中国特有的弓兵单位，一次发射多根箭矢造成多段伤害\
-诸葛弩手是封建时代(II)后解锁宋朝生产的部队\
+诸葛弩手是封建时代(II)后解锁宋朝生产的部队
 
-
-### 加成[\[回到顶部\]](broken-reference) <a href="#sp" id="sp"></a>
-
-***
-
-![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/civicon/chi.png)
+### 加成 <a href="#sp" id="sp"></a>
 
 元朝：15%移动速度\
 明朝：10%生命值\
 朝廷命官：监督时，生产建筑工作效率+150%
 
-### 更新日志[\[回到顶部\]](broken-reference) <a href="#change" id="change"></a>
-
-***
-
-内测版本
-
-* v5544补丁后，远程部队的近战攻击被删除了
-
-发售版本
-
-* v8324补丁后，现在诸葛弩可以正确地享受灵道的木材减价了，而不是无效
-* v8324补丁后，诸葛弩的食物成本从60下调到了20，训练时间从22秒下调到15秒，血量从90/110/130调整为70/80/95
-
-第1赛季
-
-* 第一赛季补丁后，进入新的朝代不再限制旧朝代的王朝部队，而是完全解锁使用
-
-第2赛季
-
-* 19801补丁后，远程部队的攻击速度明确了起手帧(从1.25更变标记为1.75)
-
-### 历史[\[回到顶部\]](broken-reference) <a href="#relk" id="relk"></a>
-
-***
-
-诸葛弩又称为连弩(Repeating Crossbow)，它是一种通过简易的来回推动的拉杆结构使得可以连续地发射箭矢的弩，最早的连弩在公元前4世纪的楚国发现，在此后的两千多年里中国人尝试对这种自动化的武器进行改进，这些改进者们以蜀汉丞相诸葛亮作为代表，后人也因此把连弩称为“诸葛弩”
-
-自发明以来，诸葛弩一直被广泛用于东亚地区上千年的战争中，并且它的核心结构几乎没有变化，这使得诸葛弩成为了最为长寿的机械武器之一，诸葛弩的有效射程在70-180米左右，相比于正常的弓弩来说射程很短，适合用于阵地战中，它在15-20秒内发射超过10支弩箭的能力使得它们拥有在狭窄空间前提下强大的压制力，在明朝时期，诸葛弩被进一步地改进，并且尝试配置在船只上使用
-
-### 杂项[\[回到顶部\]](broken-reference) <a href="#oth" id="oth"></a>
-
-***
-
-* 诸葛弩手没有自己独立的模型，他们的时代2模型使用步弓手时代2模型，时代3、4模型则是使用弩手的时代3、4模型
+| 生命值  | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%B2%BE%E9%94%90%E5%86%9B%E9%98%9F%E6%88%98%E6%9C%AF.png" alt="" data-size="line">精锐军队战术(+20%)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 攻击力  | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%86%9F%E9%93%81%E5%9D%97%E5%90%B9%E7%82%BC%E6%B3%95.png" alt="" data-size="line">熟铁块吹炼法(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%84%B1%E7%A2%B3.png" alt="" data-size="line">脱碳(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%A4%A7%E9%A9%AC%E5%A3%AB%E9%9D%A9%E9%92%A2.png" alt="" data-size="line">大马士革钢(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%B2%BE%E9%94%90%E5%86%9B%E9%98%9F%E6%88%98%E6%9C%AF.png" alt="" data-size="line">精锐军队战术(+20%)</p> |
+| 近战护甲 | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%90%88%E8%BA%AB%E7%9A%AE%E5%85%B7.png" alt="" data-size="line">合身皮具(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%BB%9D%E7%BC%98%E5%A4%B4%E7%9B%94.png" alt="" data-size="line">绝缘头盔(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%93%81%E5%8C%A0%E5%A4%A7%E5%B8%88.png" alt="" data-size="line">铁匠大师(+1)</p>                                                                                                                                                                                                      |
+| 远程护甲 | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%93%81%E5%88%B6%E5%BA%95%E7%BD%91.png" alt="" data-size="line">铁制底网 (+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%A5%94%E5%BD%A2%E9%93%86%E9%92%89.png" alt="" data-size="line">楔形铆钉(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%96%9C%E9%9D%A2.png" alt="" data-size="line">斜面(+1)</p>                                                                                                                                                                                                                         |
+| 生产时间 | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%86%9B%E4%BA%8B%E5%AD%A6%E9%99%A2.png" alt="" data-size="line">军事学院(-25%)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 其它   | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%94%BB%E5%9F%8E%E5%B7%A5%E7%A8%8B%E5%AD%A6.png" alt="" data-size="line">攻城工程学(可以建造冲车和攻城塔)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
