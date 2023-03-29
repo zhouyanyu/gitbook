@@ -1,0 +1,47 @@
+---
+description: “塞满炸药的小船，在遭到摧毁时会爆炸，对该区域内所有单位造成伤害，并使周围的船只和建筑起火”
+---
+
+# 爆破型戎克船
+
+### 数据
+
+| 爆破型戎克船(Explosive Junk)                                                                                                                       |                                                                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%88%86%E7%A0%B4%E5%9E%8B%E6%88%8E%E5%85%8B%E8%88%B9.png) |                                                                                                                                                                                                    |
+| **训练信息**                                                                                                                                     |                                                                                                                                                                                                    |
+| 产地                                                                                                                                           | 码头                                                                                                                                                                                                 |
+| 成本                                                                                                                                           | ![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E6%9C%A8.png)80![](https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%87%91.png)80 |
+| 训练时间                                                                                                                                         | 15秒                                                                                                                                                                                                |
+| 人口占用                                                                                                                                         | 2                                                                                                                                                                                                  |
+| **状态数据**                                                                                                                                     |                                                                                                                                                                                                    |
+| 生命值                                                                                                                                          | 145                                                                                                                                                                                                |
+| 火焰护甲                                                                                                                                         | 0                                                                                                                                                                                                  |
+| 远程护甲                                                                                                                                         | 0                                                                                                                                                                                                  |
+| 移动速度                                                                                                                                         | 2.00                                                                                                                                                                                               |
+| 单位标签                                                                                                                                         | 燃烧船                                                                                                                                                                                                |
+| **攻击属性(自爆)**                                                                                                                                 |                                                                                                                                                                                                    |
+| 攻击力(攻城)                                                                                                                                      | 95                                                                                                                                                                                                 |
+| 射程                                                                                                                                           | 2.0                                                                                                                                                                                                |
+| AOE范围半径                                                                                                                                      | 2.0                                                                                                                                                                                                |
+| AOE伤害衰减率                                                                                                                                     | <p>100%(近)<br>75%(中)<br>25%(远)</p>                                                                                                                                                                 |
+| 对\[舷侧船]加成                                                                                                                                    | -                                                                                                                                                                                                  |
+| 对\[建筑物]加成                                                                                                                                    | -                                                                                                                                                                                                  |
+
+### 简介 <a href="#jia" id="jia"></a>
+
+爆破型戎克船是东亚地区的燃烧船，它们进行一次自爆攻击后就会沉没，待补充\
+爆破型戎克船是封建时代(II)生产的部队，和所有器械部队一样，它们无法进行任何升级
+
+### 加成 <a href="#sp" id="sp"></a>
+
+元朝：15%移动速度(实际似乎不生效)\
+明朝：10%生命值(实际似乎不生效)\
+文明固有加成：码头工作效率+20%
+
+| 生命值  | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%A3%85%E7%94%B2%E8%88%B9%E8%BA%AB.png" alt="" data-size="line">装甲船身(+20%)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%80%A0%E8%88%B9%E5%B7%A5.png" alt="" data-size="line">造船工(+20%)</p> |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 攻击力  | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%82%B8%E8%8D%AF.png" alt="" data-size="line">炸药(+40%)                                                                                                                                                                                         |
+| 爆炸范围 | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E7%87%83%E7%83%A7%E5%BC%B9.png" alt="" data-size="line">燃烧弹(+20%)                                                                                                                                                                               |
+| 远程护甲 | <p><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E8%A3%85%E7%94%B2%E8%88%B9%E8%BA%AB.png" alt="" data-size="line">装甲船身(+1)<br><img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E9%80%A0%E8%88%B9%E5%B7%A5.png" alt="" data-size="line">造船工(+1)</p>     |
+| 生产时间 | <img src="https://seicing-1257171891.cos.ap-nanjing.myqcloud.com/3fatcatpool/aoe4/tech/%E5%86%9B%E4%BA%8B%E5%AD%A6%E9%99%A2.png" alt="" data-size="line">军事学院(-25%)                                                                                                                                                                     |
